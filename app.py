@@ -2,15 +2,15 @@ from flask import Flask, render_template, request
 import numpy as np
 from joblib import load
 
-app = Flask(__name__)
+application = Flask(__name__)
 
 #Hope page
-@app.route('/')
+@application.route('/')
 def home():
     return render_template('index.html')
 
 # After user hits the submit button.
-@app.route('/predict', methods=['GET', 'POST'])
+@application.route('/predict', methods=['GET', 'POST'])
 def predict():
     income = request.form['income']                 # Number Field
     house_age = request.form['age']                 # Number Field
