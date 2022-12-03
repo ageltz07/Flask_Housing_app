@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import numpy as np
 from joblib import load
 
-application = Flask(__name__)
+application = app = Flask(__name__)
 
 #Hope page
 @application.route('/')
