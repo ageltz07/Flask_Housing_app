@@ -36,17 +36,22 @@ this app since I have done a couple data science/machine learning tasks in the p
 figured since I was going to deploy the app I may as well use AWS since i've wanted to start learning about the cloud a little more, specifically AWS. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Machine Learning Model built with
+*  [![Jupyter Noteboook][Jupyter_NB-shield]][Jupyter_NB-url]
+*  [![Numpy][Numpy-shield]][Numpy-url]
+*  [![Pandas][Pandas-shield]][Pandas-url]
+*  [![Scikit Learn][SK-learn-shield]][SK-learn-url]
 
-
-### Built With
+### Application built With
 *  [![Python][python-shield]][python-url]
 *  [![Flask][flask-shield]][flask-url]
 *  [![Visual Studio Code][Visual Studio Code-shield]][Visual Studio Code-url]
+
 ### Deployed On
-*  [![Heroku][Heroku-shield]][Heroku-url]
-### API's Used
-* [Twilio](https://www.twilio.com/)
-* [MarketStack](https://marketstack.com/)
+*  [![AWS][AWS-shield]][AWS-url]
+
+### CI/CD used
+* [AWS CodePipeline](https://aws.amazon.com/codepipeline/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,5 +93,13 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 [flask-url]: https://flask.palletsprojects.com/en/2.2.x/
 [Visual Studio Code-shield]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [Visual Studio Code-url]: https://visualstudio.microsoft.com/
-[Heroku-shield]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white
-[Heroku-url]: https://id.heroku.com/login
+[AWS-shield]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[AWS-url]: https://aws.amazon.com/
+[Jupyter_NB-shield]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
+[Jupyter_NB-url]: https://jupyter.org/
+[Numpy-shield]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[Numpy-url]: https://numpy.org/
+[Pandas-shield]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/
+[SK-learn-shield]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+[SK-learn-url]: https://scikit-learn.org/stable/
