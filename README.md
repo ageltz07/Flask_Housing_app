@@ -58,7 +58,7 @@ figured since I was going to deploy the app I may as well use AWS since i've wan
 <!-- System Design -->
 ## Design
 <p align="center">
-  <img src="https://github.com/ageltz07/WhatsAppBot/blob/main/WhatsAppBotDesign.drawio.png"/>
+  <img src="https://github.com/ageltz07/Flask_Housing_app/blob/main/FlaskHousingAppDesign.drawio.png"/>
 </p>
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
