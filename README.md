@@ -21,7 +21,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-## Project Example
+## Project Example GIF
 <!-- PROJECT LOGO -->
 <p align="center">
   <img src="https://github.com/ageltz07/Flask_Housing_app/blob/main/housing_app_gif.GIF" alt="animated" />
